@@ -1,5 +1,5 @@
 # BOZ213u02a08-25040109
-# Python Yorum Satırları ve PEP 8
+# Python Yorum Satırları 
 
 ## 1. Proje ne yapıyor?
 
@@ -37,7 +37,7 @@ Ayrıca programın iki gün önce yazıldığına ilişkin gereksiz açıklama �
 
 Böylece kod daha anlaşılır hâle getirilmiştir.
 
-## 3. How can users get started with the project? (Kullanıcılar projeyi nasıl çalıştırabilir?)
+## 3. Kullanıcılar projeyi nasıl çalıştırabilir?
 
 ### Kullanılan Teknolojiler
 - Python 3
